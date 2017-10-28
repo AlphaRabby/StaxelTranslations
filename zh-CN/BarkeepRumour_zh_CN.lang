@@ -1,9 +1,9 @@
 language.code=zh-CN
 language=简体中文
 //TODO Translate [Reference] 'They say the old farmhouse is haunted...'
-staxel.village.dialogue.job.BarkeepRumour.line:10000700=
+staxel.village.dialogue.job.BarkeepRumour.line:10000700=“他们说，旧农舍是闹鬼的……”
 //TODO Translate [Reference] 'At night you'll hear all sorts of strange sounds...'
-staxel.village.dialogue.job.BarkeepRumour.line:10000800=
+staxel.village.dialogue.job.BarkeepRumour.line:10000800=“在夜晚你会听见各种各样奇怪的声音……”
 //TODO Translate [Reference] 'Nah, I'm just messing with you!'
 staxel.village.dialogue.job.BarkeepRumour.line:10000900=
 //TODO Translate [Reference] 'I've heard tell that there are fairies in the woodlands around here.'
